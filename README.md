@@ -1,16 +1,14 @@
 
-## Hi there 👋, My name is Mr. BDKR28
+## Hi there 👋, My name is Mr.Cyb3rgh0st
 ### I am alone hacker.
 ![I am alone hacker.](https://bestanimations.com/media/bangladesh/533000752bangladesh-flag-waving-gif-animation-8.gif)
 
-I am a normal person.🤫 I am a simple coder.🤫 I am a YouTuber.🤨 I am a student. 😍 I am a black man in a white mask.😎 I am a noob Hacker.😘
+I am a simple person.🤫 I am  simple coder.🤨 I am a student. 😍 I am a black man in a Gray mask.😎 I am a noob Hacker.😘
 
-Skills: HTML / PYTHON / PHP
+Skills:PYTHON 
 
 - 🔭 I’m currently working on Facebook 
-- 🌱 I’m currently learning Sololearn 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Php 
+- 🌱 I’m currently learning Sololearn  
 - 💬 Ask me about Python 
 - 📫 How to reach me: Try and try 
 
