@@ -5,9 +5,9 @@
 
 I am a simple person.🤫 I am  simple coder.🤨 I am a student. 😍 I am a black man in a Gray mask.😎 I am a noob Hacker.😘
 
-Skills:PYTHON 
+Skills: Python 
 
-- 🔭 I’m currently working on Facebook 
+- 🔭 I’m currently working on Python  
 - 🌱 I’m currently learning Sololearn  
 - 💬 Ask me about Python 
 - 📫 How to reach me: Try and try 
