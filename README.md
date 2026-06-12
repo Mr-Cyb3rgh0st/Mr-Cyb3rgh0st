@@ -1,82 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00ff41&text=Mr.Cyb3rgh0st&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:00E5FF&text=Mr.Cyb3rgh0st&fontColor=00E5FF&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Python+Developer;Automation+Engineer;Telegram+Bot+Developer;Security+Research+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+Developer;Automation+Engineer;Telegram+Bot+Developer;Backend+Developer;Security+Research+Enthusiast" />
 
-![](https://komarev.com/ghpvc/?username=Mr-Cyb3rgh0st\&color=00ff41\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Mr-Cyb3rgh0st&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# root@cyb3rgh0st:~#
+# ⚡ SYSTEM INFORMATION
 
 ```bash
-$ whoami
+root@cyb3rgh0st:~$ neofetch
 
-Name        : Mr.Cyb3rgh0st
+OS          : Linux
 Role        : Python Developer
 Focus       : Automation & Backend Systems
-Learning    : Security Research
+Language    : Python
 Status      : Online
+Learning    : Security Research
 ```
 
 ---
 
-## ~/about_me
+## 🧑‍💻 ABOUT ME
 
 ```python
-class Developer:
+class MrCyb3rgh0st:
 
     def __init__(self):
-        self.name = "Mr.Cyb3rgh0st"
-
-        self.skills = [
-            "Python",
+        self.code = "Python"
+        self.interests = [
             "Automation",
             "Telegram Bots",
-            "Web Applications",
-            "API Integration"
+            "Web Development",
+            "Backend Systems",
+            "Cyber Security"
         ]
 
-        self.tools = [
-            "Flask",
-            "Pyrogram",
-            "Telethon",
-            "Selenium",
-            "Requests",
-            "Git"
-        ]
-
-    def motto(self):
-        return "Code. Learn. Improve."
+    def life(self):
+        return "Build -> Learn -> Improve"
 ```
 
 ---
 
-## ~/tech_stack
+## 🚀 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,linux,git,github,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,linux,git,github,vscode,bash"/>
 
 </div>
 
 ---
 
-## ~/specializations
+## 🎯 SPECIALIZATIONS
 
 ```yaml
 Automation:
-  - Browser Automation
-  - API Automation
-  - Task Automation
+  - Selenium
+  - Requests
+  - Asyncio
 
 Telegram:
   - Pyrogram
-  - Telethon
-  - Bot Development
+  - Telegram Bots
+  - API Integrations
 
 Backend:
   - Flask
@@ -84,93 +75,105 @@ Backend:
   - Authentication Systems
 
 Development:
-  - Python Scripts
+  - Python Applications
   - Web Applications
-  - CLI Tools
+  - Automation Tools
 
 Research:
-  - Web Security
-  - Authentication Flows
+  - Web Technologies
+  - Security Concepts
   - API Analysis
 ```
 
 ---
 
-## ~/github_stats
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Cyb3rgh0st&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Cyb3rgh0st&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Cyb3rgh0st&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Cyb3rgh0st&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
 </div>
 
 ---
 
-## ~/trophies
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Cyb3rgh0st&theme=matrix&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Cyb3rgh0st&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-## ~/activity_graph
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Cyb3rgh0st&theme=react-dark&bg_color=000000&hide_border=true&color=00ff41&line=00ff41&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Cyb3rgh0st&theme=react-dark&bg_color=000000&hide_border=true&color=00E5FF&line=00E5FF&point=FFFFFF"/>
 
 </div>
 
 ---
 
-## ~/current_projects
+## 🔥 CURRENT PROJECTS
 
 ```bash
-[+] Python Automation Tools
-[+] Telegram Bot Systems
-[+] Flask Web Applications
-[+] API Integrations
-[+] Authentication Platforms
+[✓] Python Automation Tools
+[✓] Telegram Bot Development
+[✓] Flask Web Applications
+[✓] API Integrations
+[✓] Backend Systems
 ```
 
 ---
 
-## ~/connect
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Mr-Cyb3rgh0st">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 </div>
 
 ---
 
-## ~/terminal
+## 💻 TERMINAL
 
 ```text
-███████╗██╗   ██╗██████╗ ███████╗██████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-█████╗   ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██╔══╝    ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-███████╗   ██║   ██████╔╝███████╗██║  ██║
-╚══════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+╔══════════════════════════════════════╗
+║                                      ║
+║      Mr.Cyb3rgh0st Initialized       ║
+║                                      ║
+║      Python • Automation • APIs      ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-> Code • Learn • Build • Repeat
+> Think Different.
+> Build Different.
 ```
 
 ---
 
 <div align="center">
 
-### ⚡ "Turning Ideas Into Code"
+### ⚡ BUILDING THE FUTURE, ONE SCRIPT AT A TIME
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:00ff41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,100:00E5FF"/>
